@@ -1,0 +1,4 @@
+
+main() {
+  print('Olá Dart!');
+}
