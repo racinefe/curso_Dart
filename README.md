@@ -2,7 +2,7 @@
  Repositório para o curso de Dart
  <h1  align="center">
  Dart-Curso-Modulos 
-  <img align="center" alt="Logo-Java" height="100" width="100"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"/> 
+   <img align="center" alt="Logo-Dart" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />
 </h1>  
 
 
