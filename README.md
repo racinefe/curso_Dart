@@ -25,5 +25,5 @@
 
   - Dart - Conclusão
 
-    Link do Curso - https://www.udemy.com/course/curso-flutter/
+    Link do Curso (O Link é do curso de Flutter porem Aparte sobre Dart esta no final do curso) - https://www.udemy.com/course/curso-flutter/
 </p>
