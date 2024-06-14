@@ -1,7 +1,7 @@
 # curso_Dart
  Repositório para o curso de Dart
  <h1  align="center">
- Dart-Curso-Modulos 
+ Dart-Curso-Módulos 
    <img align="center" alt="Logo-Dart" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />
   
 </h1>  
